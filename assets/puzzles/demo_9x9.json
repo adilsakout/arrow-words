@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "demo_9x9",
+  "title": "Sky Trails",
+  "author": "PuzzleLab",
+  "width": 9,
+  "height": 9,
+  "cells": [
+    {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"},
+
+    {"type": "LETTER", "solution": "G"},
+    {"type": "LETTER", "solution": "O"},
+    {"type": "LETTER", "solution": "D"},
+    {"type": "LETTER", "solution": "D"},
+    {"type": "LETTER", "solution": "L"},
+    {"type": "LETTER", "solution": "I"},
+    {"type": "LETTER", "solution": "W"},
+    {"type": "CLUE", "arrow": "W", "text": "Painted hunter"},
+    {"type": "BLOCK"},
+
+    {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"},
+
+    {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"},
+
+    {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "LETTER", "solution": "N"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "LETTER", "solution": "S"},
+
+    {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "LETTER", "solution": "A"}, {"type": "LETTER", "solution": "L"}, {"type": "LETTER", "solution": "L"}, {"type": "BLOCK"},
+
+    {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "LETTER", "solution": "W"}, {"type": "BLOCK"}, {"type": "BLOCK"},
+
+    {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "LETTER", "solution": "O"}, {"type": "LETTER", "solution": "O"}, {"type": "LETTER", "solution": "S"}, {"type": "BLOCK"},
+
+    {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "BLOCK"}, {"type": "CLUE", "arrow": "NE", "text": "Owls in flight"}, {"type": "BLOCK"}, {"type": "CLUE", "arrow": "N", "text": "Night glider"}, {"type": "BLOCK"}, {"type": "CLUE", "arrow": "NW", "text": "Lakeside stalker"}
+  ]
+}
